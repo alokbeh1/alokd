@@ -1,0 +1,6 @@
+node{
+stage(alok("build"){
+git 'https://github.com/alokbeh1/alokd.git'
+
+}
+}
